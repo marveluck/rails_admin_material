@@ -53,7 +53,7 @@ $fg-nav-tabs-active: #fb1;
 
 ## Notes
 
-Based on [Material Design for Bootstrap](http://fezvrasta.github.io/bootstrap-material-design/)
+Based on [Material Design for Bootstrap](https://mdbootstrap.com/)
 
 If the styles are not applied try to clean the Rails pipeline cache:
 
